@@ -1,0 +1,9 @@
+{
+    "jobs":[
+        {"id":1,"title":"HR Consultant","details":"Perform HR services"},
+        {"id":1,"title":"Web Developer","details":"Code web applications"},
+        {"id":1,"title":"UI Designer","details":"Make user equitable useful components"},
+        {"id":1,"title":"Accountant","details":"Keep accounts resords and books"},
+        {"id":1,"title":"Sales Representative","details":"Promote the company products to clients"}
+    ]
+}
